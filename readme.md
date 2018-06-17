@@ -2,7 +2,8 @@
 # CarZero
 
 A small robot car with funny eyes.
-Driven by a Raspberry Pi Zero and controlled via `ssh` in local wifi and camera stream in Browser.
+Driven by a Raspberry Pi Zero and controlled via `ssh` in local wifi.
+Video stream accessible in Browser.
 
 <p float="left">
   <img width=33% src="img/front.jpg">
@@ -28,7 +29,7 @@ ssh -X pi@raspberrypi
 python drive.py
 `
 
-4. control CarZero via `arrow keys` or `WASD` while
+4. control CarZero via `arrow keys` or `WASD`
 
 ## Hardware
 
