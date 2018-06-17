@@ -4,9 +4,11 @@
 A small robot car with funny eyes.
 Driven by a Raspberry Pi Zero and controlled via `ssh` in local wifi and camera stream in Browser.
 
-<img width=33% src="img/front.jpg">
-<img width=33% src="img/above.jpg">
-<img width=33% src="img/side.jpg">
+<p float="left">
+  <img width=33% src="img/front.jpg">
+  <img width=33% src="img/above.jpg">
+  <img width=33% src="img/side.jpg">
+</p>
 
 [![Youtube](img/youtube.png)](https://www.youtube.com/watch?v=ZzRx71aBeUY)
 
